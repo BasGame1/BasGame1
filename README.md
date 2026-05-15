@@ -10,7 +10,7 @@
 An advanced customization framework designed to bring Pixel-exclusive software features, custom features, and enhancements to Android devices while keeping system integrity intact.
 
 ### 💿 [Aluminium OS](https://github.com/BasGame1/AluminiumOS)
-WIP: Building AluminiumOS for x86 pcs
+wip: Building AluminiumOS for x86 pcs
 ---
 
 ## 🧰 Tech Stack & Toolkit
@@ -20,17 +20,9 @@ WIP: Building AluminiumOS for x86 pcs
 * **Modding & Systems:** KernelSU, root, android :)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BasGame1&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasGame1&layout=compact&theme=tokyonight" alt="Top Languages" width="300"/>
-</p>
-
 ---
 
 ## 🌐 Contact me if you need
 
-* 💬 **Telegram:** [@YourTelegramUsername](https://t.me/@basgame1)
+* 💬 **Telegram:** [@BasGame1](https://t.me/@basgame1)
 * 🛠️ **XDA:** [Your XDA Profile](https://xdaforums.com/m/basgame1.13021465/)
