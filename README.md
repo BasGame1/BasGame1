@@ -10,7 +10,8 @@
 An advanced customization framework designed to bring Pixel-exclusive software features, custom features, and enhancements to Android devices while keeping system integrity intact.
 
 ### 💿 [Aluminium OS](https://github.com/BasGame1/AluminiumOS)
-wip: Building AluminiumOS for x86 pcs
+A try into booting leaked ALOS image in QEMU and hopefully, after that make it native to X86 pcs (WIP)
+
 ---
 
 ## 🧰 Tech Stack & Toolkit
