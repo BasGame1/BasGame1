@@ -1,29 +1,50 @@
-# Hi there, I'm BasGame1! 👋
+<p align="center">
+  <a href="https://github.com/BasGame1">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hello!%20I'm%20BasGame1" alt="Hello! I&#39;m BasGame1" />
+  </a>
+</p>
 
-### 📱 Android Modder, Kotlin Learner, & AOSP Enthusiast
- I'm an Android developer and system-level modder who loves tearing down filesystems and customizing the Android ecosystem
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=490&height=44&lines=Open%20source%20first%2C%20bash%20second" alt="Typing headlines" />
+</p>
+
+### 🚀 About Me
+
+Novice trying to make it's way into Linux and android dev.
+
+🔭 &nbsp;I'm currently working on **Pixelify Next and AluminiumOS**
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=BasGame1&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=BasGame1&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BasGame1&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+### 💭 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+</p>
+
 ---
+<p align="center"><i>⭐️ From <a href="https://github.com/BasGame1">BasGame1</a></i></p>
 
-## 🛠️ My projects rn
-
-### 🚀 [Pixelify Next](https://github.com/BasGame1/Pixelify-Next)
-An advanced customization framework designed to bring Pixel-exclusive software features, custom features, and enhancements to Android devices while keeping system integrity intact.
-
-### 💿 [Aluminium OS](https://github.com/BasGame1/AluminiumOS)
-A try into booting leaked ALOS image in QEMU and hopefully, after that make it native to X86 pcs (WIP)
-
----
-
-## 🧰 Tech Stack & Toolkit
-
-* **Languages:** Bash
-* **Environment & Tools:** Arch Linux, Android Studio, Android SDK, Git, Terminal Utilities
-* **Modding & Systems:** KernelSU, root, android :)
-
----
----
-
-## 🌐 Contact me if you need
-
-* 💬 **Telegram:** [@BasGame1](https://t.me/@basgame1)
-* 🛠️ **XDA:** [Your XDA Profile](https://xdaforums.com/m/basgame1.13021465/)
