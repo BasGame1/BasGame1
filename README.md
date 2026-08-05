@@ -4,15 +4,11 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=490&height=44&lines=Open%20source%20first%2C%20bash%20second" alt="Typing headlines" />
-</p>
-
 ### 🚀 About Me
 
 Novice trying to make it's way into Linux and android dev.
 
-🔭 &nbsp;I'm currently working on **Pixelify Next and AluminiumOS**
+🔭 &nbsp;I'm currently working on **Pixelify Next, AluminiumOS and flag decoding**
 
 ### 🛠️ Tech Stack
 
