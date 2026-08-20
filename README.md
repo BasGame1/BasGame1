@@ -1,16 +1,17 @@
 <p align="center">
   <a href="https://github.com/BasGame1">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=698&text=Hi,%20Im%20BasGame1" alt="Hii! Im BasGame1" /> 
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=HI,%20Im%20BasGame1&fontColor=5CFFFF&textBg=false&section=header&reversal=true&stroke=004747&strokeWidth=3" alt="Hii! Im BasGame1" /> 
   </a>
 </p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-<img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODcxNDA5MTAsIm5iZiI6MTc4NzE0MDYxMCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA4MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwODE5VDExNTY1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc3Y2Q1MmVlMzEwYmYyNmVjOTY5YTJkZjRmNGE0M2YzZjAzNmMyOGRlOGE0ZmZlZjZjYTUyMDhiODg0ZGQ3ZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.4hghzOZT7mNrpcdgD0Wa9LS4NkKiDcAgJ7X8m03Q7ZI" width="230">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="200">
 </p>
-
+<p align="center">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Reverse+Enginer+Of+Google+%26+Android;Novice+Linux+%26+Android+Dev;App+%26+Script+Automation;Android+%26+Linux+enjoyer" alt="Typing SVG" />
+</p This banner was gotten from android developers web page>
+ <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzRItaoZNxXwt1uVdUHwtDpRRjmvA8Qa6FYS3w9JtJELwnHDLqgufyNq8y-aJs6jfKDBlp4N-csrChTjNzvUzjPd3qNxEoNhh1jeGd5sc8JEisPjzemFjGDSFccyYOu9Y4C1weqZfgtG51-FRrfrwIHPCHURgV_70tAyeEwUrAOxoxUG9_jaJoX1y9vE0/s1600/AfD%20_%20%20Android%2016%20Beta%201%20Blog%20Assets%20_%20Blog%20Header%20and%20Metadata%20Card_banner.png" alt="Android Banner" />
 </p>
 
 ### 🚀 About Me
@@ -41,11 +42,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 📌 Newest project
+### 📌 Newest projects
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/BasGame1/apk2kotlin">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=apk2kotlin&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="48%" alt="apk2kotlin" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=apk2kotlin&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="48%" alt="apk2kotlinRepo" />
+  </a>
+  <a href="https://github.com/BasGame1/GoogleApps">
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=GoogleApps&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="48%" alt="GoogleAppsRepo" />
   </a>
 </p>
 
