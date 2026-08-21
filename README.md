@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/C-5AEEEC?style=for-the-badge&logo=c&logoColor=black" alt="C language" />
 </p>
 
-**Yet** (Pronounced as git)
+**Yit**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -46,26 +46,18 @@
 
 <p align="center">
   <a href="https://github.com/BasGame1/apk2kotlin">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=apk2kotlin&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="48%" alt="apk2kotlinRepo" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=apk2kotlin&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="38%" alt="apk2kotlinRepo" />
   </a>
   <a href="https://github.com/BasGame1/GoogleApps">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=GoogleApps&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="48%" alt="GoogleAppsRepo" />
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=GoogleApps&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="38%" alt="GoogleAppsRepo" />
   </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="30%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=BasGame1&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img width="30%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=BasGame1&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&exclude_repo=GoogleApps,android_kernel_samsung_gta8wifi,atlas,GmsFlags2.0" alt="top langs" />
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=BasGame1&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakNum=2ea043" alt="GitHub Streak" />
-</p>
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BasGame1&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+  <img width="52%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=BasGame1&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img width="38%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=BasGame1&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&exclude_repo=GoogleApps,android_kernel_samsung_gta8wifi,atlas,GmsFlags2.0" alt="top langs" />
 
 ### 💭 Dev Quote
 
