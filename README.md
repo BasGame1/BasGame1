@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
- &nbsp;I'm currently working on **Pixelify Next, apk2kotlin, reverse engineering and Android app development.**
+ &nbsp;I'm currently working on **Pixelify Next, apk2kotlin, kernel development, reverse engineering and Android app development.**
  &nbsp;Love reverse engineer and study android or google services
 
 ### 🛠️ Tech Stack
@@ -48,8 +48,8 @@
   <a href="https://github.com/BasGame1/apk2kotlin">
     <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=apk2kotlin&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="38%" alt="apk2kotlinRepo" />
   </a>
-  <a href="https://github.com/BasGame1/Pixelify-NEXT-Submodules">
-    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=Pixelify-NEXT-Submodules&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="38%" alt="PixelifySubmodulesRepo" />
+  <a href="https://github.com/BasGame1/kernel">
+    <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=BasGame1&repo=kernel&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000" width="38%" alt="KernelRepo" />
   </a>
 </p>
 
